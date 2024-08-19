@@ -1,0 +1,14 @@
+**/auto/
+**/*.aux
+**/*.bbl
+**/*.bcf
+**/*.blg
+**/*.log
+**/*.out
+**/*.pdf
+**/*.run.xml
+**/*.synctex.gz
+**/*.nav
+**/*.snm
+**/*.toc
+tex/auto/
